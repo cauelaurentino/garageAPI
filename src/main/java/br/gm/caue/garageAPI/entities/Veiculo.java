@@ -3,7 +3,7 @@ package br.gm.caue.garageAPI.entities;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "garage")
+@Table(name = "tb_veiculo")
 public class Veiculo {
 
     @Id
